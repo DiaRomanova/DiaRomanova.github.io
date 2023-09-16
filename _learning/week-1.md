@@ -12,6 +12,7 @@ This is a description of your learning experiences. You can use markdown like an
 
 ## Plan
 
+I am planning to begin studying the fundamentals of C++, including the build process (Chapter 1 of the book) and fundamental data types (Chapter 2 of the book). I'll be participating in lectures to gain a better understanding of how C++ works. If I encounter any additional information that I need to understand, I will use Google to search for it and figure out how it works.
 <!---
 NOTE: Fill this section in at the beginning of the week!
 
