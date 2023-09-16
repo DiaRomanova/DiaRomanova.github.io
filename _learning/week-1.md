@@ -21,7 +21,12 @@ What do you plan to do this week? What new knowledge do you want to acquire? Do 
 
 ## Do
 
-I have started to learn the 1st Chapter of the book, about build process for C++, it takes me more time than i thought, so in the future i might think to have more time for thath, because i havent larnt something like that before, and it took me really much time to understand
+I've started studying the first chapter of the book, which delves into the build process for C++. It's taking me more time than I initially anticipated. Since this is a new concept for me, I'm finding it quite challenging to grasp. In the future, I may need to allocate more time to this topic due to its complexity.
+
+Additionally, I've been diligent about taking notes during the lectures to help me quickly access the information I need when I need it.
+
+Overall, I would like to deepen my understanding of the topics covered this week, so I'm not entirely satisfied with my progress.
+
 <!---
 NOTE: Fill this in during the week.
 
@@ -31,6 +36,9 @@ Provide as much context as possible. Use code snippets or take screenshots of wh
 -->
 
 ## Check
+
+
+In the first week, I acquainted myself with the basics of the programming language C++ and began contemplating the type of game I would like to create. Understanding fundamental data types proved challenging, as my mathematical skills had become a bit rusty since my last study. Therefore, I plan to allocate additional time to this topic in the second week. I've come to realize that this programming language is more complex than I initially thought, but I'm hopeful that I will gradually unravel its intricacies, and everything will become clearer. I also managed to grasp how to use GitHub and how to publish my code, although it took a few attempts to truly remember the process.
 
 <!--- 
 Note: Fill this in at the end of the week.
@@ -45,6 +53,8 @@ NOTE: Any source of feedback is feedback!
 -->
 
 ## Act
+
+This week, I immersed myself more in studying and reading, and I would like to incorporate practical exercises to gain a fuller understanding of how everything works. I realized that I didn't manage my time properly, so next week, I plan to allocate specific hours each day to ensure I have enough time to grasp all the material thoroughly.
 
 <!---
 Note: Fill this in at the end of the week.
