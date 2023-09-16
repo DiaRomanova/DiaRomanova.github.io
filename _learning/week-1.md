@@ -21,6 +21,7 @@ What do you plan to do this week? What new knowledge do you want to acquire? Do 
 
 ## Do
 
+I have started to learn the 1st Chapter of the book, about build process for C++, it takes me more time than i thought, so in the future i might think to have more time for thath, because i havent larnt something like that before, and it took me really much time to understand
 <!---
 NOTE: Fill this in during the week.
 
