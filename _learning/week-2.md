@@ -13,6 +13,7 @@ This is a description of your learning experiences. You can use markdown like an
 ## Plan
 
 In this week i want to start to work an assigment, especially create my games design document, and even if i wont finish it this week, just to start it at least. Although i will start to learn themes as: pointers and references, classes, statements and functions. To learn that i will listen lectures, and read special chapters for that from book. I hope that i will have the ability to spend on it 3-4 hours a day at least.
+
 <!---
 NOTE: Fill this section in at the beginning of the week!
 
