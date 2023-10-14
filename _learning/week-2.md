@@ -24,7 +24,7 @@ What do you plan to do this week? What new knowledge do you want to acquire? Do 
 
 During this week, I noticed that learning became more challenging for me, as I wasn't feeling well. However, towards the end of the week, on Friday, Saturday, and Sunday, I had the opportunity to dedicate more time to my studies. I watched the recorded lectures twice because I didn't grasp everything on the first pass. Fortunately, it didn't take me longer than I had anticipated.
 
-Nonetheless, I ended up spending less time on my studies than I would have preferred. I managed to read chapters from the book, took notes, and uploaded my game design document to Microsoft Teams.
+
 
 <!---
 NOTE: Fill this in during the week.
@@ -47,6 +47,7 @@ Did you give anyone else feedback? Who did you give feedback to? How did they re
 
 NOTE: Any source of feedback is feedback!
 -->
+Nonetheless, I ended up spending less time on my studies than I would have preferred. I managed to read chapters from the book, took notes, and uploaded my game design document to Microsoft Teams.
 
 ## Act
 
@@ -57,3 +58,4 @@ What action points can you identify from this week? What would you like to impro
 
 If your planned time estimates were not accurate, what would you do to improve them?
 -->
+I am glad that i have read all that i planned, but i fill not strongly in the knowledge that i have learned. So next week i need to try more carefully to read and spend much time on watching an additional material.
